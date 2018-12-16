@@ -2,5 +2,5 @@ token=NTIzMTI5MDU2ODk2NDgzMzI5.DvVBgw.LMeHWgeCSgqAyza-dmkp-9Jqabc
 owner=414404078882390016
 prefix= R
 game= ‏لاتسرقوُن‌ضحكتي ‌إذا م‌تزرعون‌الفرح‌بصدري .. َ
-stayinchannel=false
+stayinchannel=true
 songinstatus=false
